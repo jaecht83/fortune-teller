@@ -1,0 +1,7 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# anything I want can be in a comment
